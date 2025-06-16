@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi👋! I'm Ki Pyo Kim. I'm Applied Aritificial Intelligence (AAI) undergraduate student at SKKU.<br> <br>My interests are<br>- Deep Learning<br>- Vision-Language Models<br>- Efficient AI<br>- Knowledge Distillation<br>- Cross-Architecture Feature Alignment.<br>
 
 
