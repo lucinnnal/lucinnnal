@@ -1,3 +1,6 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+    </div>
 Hi👋! I'm Ki Pyo Kim. I'm Applied Aritificial Intelligence (AAI) undergraduate student at SKKU.<br> <br>My interests are<br>- Deep Learning<br>- Vision-Language Models<br>- Efficient AI<br>- Knowledge Distillation<br>- Cross-Architecture Feature Alignment.<br>
 
 
