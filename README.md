@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hi,%20I'm%20Lucinnnal!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
 
-Hi👋! I'm Ki Pyo Kim. I'm Applied Aritificial Intelligence (AAI) undergraduate student at SKKU.<br> <br>My interests are<br>- Computer Vision<br>- Generatvie AI<br>- Efficient AI<br>- Knowledge Distillation<br>- Representation Learning<br>
+Hi👋! I'm Ki Pyo Kim. I'm Applied Aritificial Intelligence (AAI) undergraduate student at SKKU.<br> <br>My interests are<br>- Computer Vision<br>- Generatvie AI<br>- Self-Supervised-Learning<br>- Representation Learning<br>
 
 
 ## 🌐 Socials:
